@@ -1,0 +1,1046 @@
+{
+  "items": [
+    {
+      "description": "Bloome 让你跳过本地安装和配置：把列表里的任意一个 skill 作为 agent 一键加进聊天，直接对话试用。喜欢就分享给别人，或拉进群一起玩，零配置。想挨个体验这个列表里的 skill，在 Bloome 上最快。",
+      "items": [],
+      "title": "不想挨个安装？试试 Bloome"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "女娲.skill",
+          "description": "从个人的心智模型、决策启发式与表达模式中提炼可复用技能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T04:38:20Z",
+            "owner": "alchaincyf",
+            "repo": "nuwa-skill",
+            "stars": 30497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "自己.skill",
+          "description": "将个人对话与记录整理为自我蒸馏助手。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-01T16:38:03Z",
+            "owner": "notdog1998",
+            "repo": "yourself-skill",
+            "stars": 3286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "永生.skill",
+          "description": "从聊天记录与相关资料中整理多维数字人格画像。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-15T03:21:58Z",
+            "owner": "agenmod",
+            "repo": "immortal-skill",
+            "stars": 975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "大师.skill",
+          "description": "从一个具体行业的从业经验中提炼判断方式、决策框架与工具习惯，形成可复用的方法论 skill。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-04T10:39:28Z",
+            "owner": "swaylq",
+            "repo": "master-skill",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Forge Skill",
+          "description": "将自我蒸馏与他人蒸馏拆分为独立流程，用于自我镜像、记忆整理与角色化对话。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-08T10:49:12Z",
+            "owner": "YIKUAIBANZI",
+            "repo": "forge-skill",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "数字人生.skills",
+          "description": "从个人在日常工具中留下的数字痕迹中提炼结构化自我画像。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-30T15:49:14Z",
+            "owner": "wildbyteai",
+            "repo": "digital-life",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "反蒸馏 Skill",
+          "description": "将可公开分发的技能内容与私有经验备份拆分管理，用于技能交付场景。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-02T10:51:19Z",
+            "owner": "lcmomo",
+            "repo": "my-anti-distill",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VibePortrait",
+          "description": "从 Vibe Coding 对话中提炼开发者画像、开发技能与偏好。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-08T15:58:51Z",
+            "owner": "dadwadw233",
+            "repo": "VibePortrait",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "数字生命开源计划",
+          "description": "提供一套将个人知识库升级为数字分身的框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-09T05:44:54Z",
+            "owner": "weixr18",
+            "repo": "my-digital-life",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "八字人格",
+          "description": "基于生辰八字，生成会聊天、有情绪、会随时间变化的AI人格。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-12T14:25:34Z",
+            "owner": "cantian-ai",
+            "repo": "bazi-persona-skill",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "诸子.skill",
+          "description": "让多个已存在的人格 skill 围绕同一问题展开结构化辩论，支持自动选人、按轮交锋与中立总结。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-12T13:40:47Z",
+            "owner": "linzzzzzz",
+            "repo": "zhuzi-skill",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "midas.skill",
+          "description": "从任意公众人物中提炼出六维度财富操作系统（赚钱引擎、交易架构、投资逻辑、风险画像、杠杆模型、退出路径），也可从个人日常数据中挖掘财富信号。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-09T07:20:20Z",
+            "owner": "henryjohnbrand",
+            "repo": "midas-skill",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "图鉴.skill",
+          "description": "跨作者 persona skill 调度器 — 根据对话意图，从 30 个 persona skill 中智能匹配推荐。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-10T03:53:51Z",
+            "owner": "Aar0nPB",
+            "repo": "curator-skill",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Persona Skill",
+          "description": "统一的多语言人格蒸馏、合成、扮演、管理。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T10:38:28Z",
+            "owner": "Tomsawyerhu",
+            "repo": "Persona-Skill",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skill Fidelity Bench",
+          "description": "用于评测人格蒸馏 skill 在修改或投毒后是否保留原始能力、推理框架、边界与辨识度的基准工具 skill。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-23T07:17:35Z",
+            "owner": "c0ffee-milk",
+            "repo": "skill-fidelity-bench",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "自我蒸馏与元工具"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "同事.skill",
+          "description": "从团队资料中整理前同事的工作上下文、习惯与沟通方式。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T06:50:37Z",
+            "owner": "titanwings",
+            "repo": "colleague-skill",
+            "stars": 20846
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "老板.skill",
+          "description": "从工作材料中提炼管理者的判断标准、评审风格与沟通预期。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-11T05:53:25Z",
+            "owner": "vogtsw",
+            "repo": "boss-skills",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "导师.skill",
+          "description": "将导师的指导风格整理为面向学生与教育工作者的导师助手。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-07T04:55:47Z",
+            "owner": "ybq22",
+            "repo": "supervisor",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "师兄.skill",
+          "description": "从课题组材料中提炼资深成员的指导方式与救火风格。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-10T08:36:02Z",
+            "owner": "zhang-haichao",
+            "repo": "senpai-skill",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "大学老师.skill",
+          "description": "从课程资料与教师风格中整理复习重点、题型偏好与评分线索。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-11T10:06:59Z",
+            "owner": "CommitHu502Craft",
+            "repo": "professor-skill",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HR.skill",
+          "description": "从拒信与招聘流程中整理 HR 的沟通逻辑与决策模式，用于反向拆解筛选标准并重构求职叙事。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-06T20:23:17Z",
+            "owner": "Schlaflied",
+            "repo": "hr-skill",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "roast-cold-email-skill",
+          "description": "从公司公开信息与招聘材料中整理批评性求职邮件写法，用于生成有理有据的冷联系求职邮件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-07T20:33:52Z",
+            "owner": "Schlaflied",
+            "repo": "roast-cold-email-skill",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "职场与学术关系"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "前任.skill",
+          "description": "从私人记录中整理说话方式与共同记忆，用于回忆与关系梳理。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-08T16:46:35Z",
+            "owner": "therealXiaomanChu",
+            "repo": "ex-skill",
+            "stars": 5992
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "暗恋对象.skill",
+          "description": "从聊天、照片与社交痕迹中提炼对话风格，用于个人回望与情感整理。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T01:08:58Z",
+            "owner": "xiaoheizi8",
+            "repo": "crush-skills",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "恋爱训练营.skill",
+          "description": "基于聊天记录模拟心动对象的沟通风格，帮助用户在安全沙盒中练习表达、邀约与关系修复。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-09T05:23:33Z",
+            "owner": "TammyTan516",
+            "repo": "relationship-training-skill",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "父母.skill",
+          "description": "从个人材料中提炼父母的语气、习惯与家庭记忆。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-02T14:09:12Z",
+            "owner": "xiaoheizi8",
+            "repo": "parents-skills",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reunion Skill",
+          "description": "基于已故亲友的数字遗物构建可本地运行的纪念型陪伴助手。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-06T08:46:09Z",
+            "owner": "yangdongchen66-boop",
+            "repo": "reunion-skill",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "兄弟.skill",
+          "description": "从抖音、微信截图等来源蒸馏你的兄弟们（支持真实兄弟、群聊好友和网络红人）——他们的说话方式、口头禅、搞笑风格和恶搞能量。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-10T10:32:40Z",
+            "owner": "henryjohnbrand",
+            "repo": "brother-skill",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MamaSkill",
+          "description": "从亲人的聊天记录、信件与语音中整理纪念型家庭陪伴助手。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-04T08:28:31Z",
+            "owner": "jiangziyan-693",
+            "repo": "MamaSkill",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "亲密关系与家庭记忆"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "张雪峰.skill",
+          "description": "提炼张雪峰在升学、考试与职业规划方面的实用框架，形成可复用的方法论视角。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-28T00:10:21Z",
+            "owner": "alchaincyf",
+            "repo": "zhangxuefeng-skill",
+            "stars": 10126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "求是 Skill",
+          "description": "从相关思想方法中整理实事求是、调查研究与战略判断等工具，形成可复用的问题分析框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-20T19:04:56Z",
+            "owner": "HughYau",
+            "repo": "qiushi-skill",
+            "stars": 3704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "童锦程.skill",
+          "description": "提炼童锦程在人际关系与情感判断上的直白视角与启发式。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-22T07:00:28Z",
+            "owner": "hotcoffeeshake",
+            "repo": "tong-jincheng-skill",
+            "stars": 2565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "X 导师.skill",
+          "description": "整合多位社交平台创作者的写作与增长打法，形成统一的导师式方法论技能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-28T00:11:59Z",
+            "owner": "alchaincyf",
+            "repo": "x-mentor-skill",
+            "stars": 1151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "毛选.skill",
+          "description": "提炼《毛选》中的矛盾分析、根据地思维与战略判断框架，形成可复用的方法论视角。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-08T08:27:51Z",
+            "owner": "leezythu",
+            "repo": "maoxuan-skill",
+            "stars": 1040
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "乔布斯.skill",
+          "description": "提炼史蒂夫·乔布斯的产品判断、叙事风格与决策启发式，形成可复用的方法论框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-27T16:12:57Z",
+            "owner": "alchaincyf",
+            "repo": "steve-jobs-skill",
+            "stars": 926
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "马斯克.skill",
+          "description": "提炼埃隆·马斯克的第一性原理与产品思维，形成可复用的决策框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-28T00:07:36Z",
+            "owner": "alchaincyf",
+            "repo": "elon-musk-skill",
+            "stars": 476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "芒格.skill",
+          "description": "提炼查理·芒格的跨学科心智模型与决策启发式，形成可复用的方法论框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-28T00:08:06Z",
+            "owner": "alchaincyf",
+            "repo": "munger-skill",
+            "stars": 336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "新青年.Skill",
+          "description": "把“新中国最会解决问题的脑子”请来，当一次“临时参谋”。把《毛选》157篇文章进行蒸馏，将其方法论变成可执行的现实分析 skill。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-12T06:25:03Z",
+            "owner": "SamadhiFire",
+            "repo": "xinqingnian-maoxuan-skill",
+            "stars": 296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Karpathy.skill",
+          "description": "提炼 Andrej Karpathy 对 AI 工程、教育与研究的思考框架，形成可复用的方法论视角。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-28T00:07:28Z",
+            "owner": "alchaincyf",
+            "repo": "karpathy-skill",
+            "stars": 291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "特朗普.skill",
+          "description": "提炼特朗普的谈判、锚定与权力博弈分析框架，形成可复用的方法论视角。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-28T00:08:51Z",
+            "owner": "alchaincyf",
+            "repo": "trump-skill",
+            "stars": 259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "费曼.skill",
+          "description": "提炼理查德·费曼的解释风格与求真启发式，形成可复用的方法论框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-28T00:07:39Z",
+            "owner": "alchaincyf",
+            "repo": "feynman-skill",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "户晨风.skill",
+          "description": "提炼户晨风的消费现实主义视角，用于分析消费、城市与职业选择。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-08T09:19:40Z",
+            "owner": "Janlaywss",
+            "repo": "hu-chenfeng-skill",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "纳瓦尔.skill",
+          "description": "提炼纳瓦尔关于财富、杠杆与判断力的框架，形成可复用的方法论视角。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-28T00:08:14Z",
+            "owner": "alchaincyf",
+            "repo": "naval-skill",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "巴菲特思维操作系统",
+          "description": "提炼沃伦·巴菲特的投资与决策框架，形成可复用的方法论视角。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-06T02:12:49Z",
+            "owner": "will2025btc",
+            "repo": "buffett-perspective",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "张一鸣.skill",
+          "description": "提炼张一鸣的产品、组织与战略判断框架，形成可复用的方法论视角。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-28T00:08:59Z",
+            "owner": "alchaincyf",
+            "repo": "zhang-yiming-skill",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "峰哥亡命天涯 Skill",
+          "description": "提炼“峰哥亡命天涯”的现实主义、止损导向与黑色幽默式表达结构，形成可复用的方法论视角。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-07T13:15:15Z",
+            "owner": "rottenpen",
+            "repo": "fengge-wangmingtianya-perspective",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "塔勒布.skill",
+          "description": "提炼纳西姆·塔勒布关于反脆弱与风险的启发式，形成可复用的方法论框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-28T00:08:44Z",
+            "owner": "alchaincyf",
+            "repo": "taleb-skill",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "毛泽东.skill",
+          "description": "基于公开著作提炼毛泽东的思想框架与方法论视角。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-09T13:04:08Z",
+            "owner": "wwwaapplleecu-source",
+            "repo": "mao-skill",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MrBeast.skill",
+          "description": "提炼 MrBeast 的内容选题、包装与观众留存方法，形成可复用的创作打法。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-28T00:07:59Z",
+            "owner": "alchaincyf",
+            "repo": "mrbeast-skill",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PG.skill",
+          "description": "提炼 Paul Graham 关于创业、写作与独立思考的框架，形成可复用的方法论视角。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-28T00:08:22Z",
+            "owner": "alchaincyf",
+            "repo": "paul-graham-skill",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ilya.skill",
+          "description": "提炼 Ilya Sutskever 对规模化、研究突破与超级智能的判断框架，形成可复用的方法论视角。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-28T00:07:51Z",
+            "owner": "alchaincyf",
+            "repo": "ilya-sutskever-skill",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "卡尔·马克思的思维框架与批判方法",
+          "description": "蒸馏自马克思 17 部原典，提炼其批判框架与辩证方法，提供日常对话与学术深析双模式输出。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-15T12:55:19Z",
+            "owner": "youaifuou",
+            "repo": "karl-marx-skill",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KarlMarx Skill",
+          "description": "提炼马克思主义的结构分析、矛盾分析与实践检验方法，形成用于深层问题分析的方法论框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-05T07:20:00Z",
+            "owner": "baojiachen0214",
+            "repo": "karlmarx-skill",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "常熟阿诺（加州盛亦陶） Skill",
+          "description": "提炼常熟阿诺关于“左右脑互搏”的表达与分析视角，形成可复用的方法论框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-08T09:40:21Z",
+            "owner": "Ricardo-Vv",
+            "repo": "changshu-anuo",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "郭德纲.skill",
+          "description": "提炼郭德纲的表达结构、处世判断与职业方法，形成可复用的方法论视角。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-09T11:06:11Z",
+            "owner": "ByteRax",
+            "repo": "guodegang-skills",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zizek-skill",
+          "description": "以齐泽克式的问题意识整理前提追问、欲望追踪与矛盾揭示方法，形成可复用的分析工具。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-09T08:08:52Z",
+            "owner": "JikunR",
+            "repo": "zizek-skill",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "内娱.skill",
+          "description": "从歌词、视频、微博与评论中整理歌手或偶像的表达风格与互动方式，形成可对话的数字人格助手。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-06T09:54:03Z",
+            "owner": "yanghaoraneve",
+            "repo": "star-skill",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "liangxi-skills",
+          "description": "从公开可见的 X 内容与交易复盘中提炼凉兮的结构判断、风险习惯与中文交易表达，形成可复用的交易方法论视角。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-10T17:37:12Z",
+            "owner": "1sh1ro",
+            "repo": "liangxi-skills",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "米塞斯方法论",
+          "description": "提炼路德维希·冯·米塞斯关于人类行为学、经济计算与干预主义批判的分析框架，形成可复用的政治经济学与制度分析方法论视角。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-09T13:36:55Z",
+            "owner": "LijiayuDeng",
+            "repo": "mises-perspective",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "鲁迅的思维框架与反讽笔法",
+          "description": "蒸馏自鲁迅全集 305 篇及许寿裳年谱，提炼其撕假面的反讽笔法、\"瞒和骗\"批判框架与冷彻表达视角。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-13T03:58:21Z",
+            "owner": "youaifuou",
+            "repo": "luxun-skill",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "王二.skill",
+          "description": "提炼王小波作品中“王二”这个角色的精神与思维方式，形成可复用的方法论框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-23T08:40:58Z",
+            "owner": "fisher-yu-like",
+            "repo": "wang-er-skill",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "陈泽.skill",
+          "description": "主播陈泽的思维操作系统，用陈泽的认知框架分析你的问题。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-23T08:44:19Z",
+            "owner": "fisher-yu-like",
+            "repo": "chenze-skill",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "罗布派克.skill",
+          "description": "提炼 Rob Pike 在 Unix、Go 与工程设计中的技术判断与表达风格，形成可复用的方法论视角。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-09T02:20:45Z",
+            "owner": "smallnest",
+            "repo": "rob-pike-skill",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI 维舟.skill",
+          "description": "提炼维舟在社会议题上的心智与思维框架，形成可复用的方法论视角，用于分析热点议题或评价具体观点。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-13T03:12:48Z",
+            "owner": "TerryTian-tech",
+            "repo": "AIWeiZhou-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Justin Bieber ·Skill",
+          "description": "Justin Bieber 的思维操作系统，结合经历与创作与你交谈。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-23T08:42:25Z",
+            "owner": "fisher-yu-like",
+            "repo": "justin-bieber-skill",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "公众人物与方法论视角"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "赛博算命 Skill",
+          "description": "基于出生信息与传统命理典籍整理四柱排盘与分析方法。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-04T18:46:04Z",
+            "owner": "jinchenma94",
+            "repo": "bazi-skill",
+            "stars": 2500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Numerologist Skills",
+          "description": "用结构化知识库与脚本化约束整理奇门遁甲、紫微斗数等术数技能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T05:05:19Z",
+            "owner": "FANzR-arch",
+            "repo": "Numerologist_skills",
+            "stars": 932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Master-skill",
+          "description": "基于佛教经典文献整理汉传佛教的教学风格与讲解视角。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T04:20:32Z",
+            "owner": "xr843",
+            "repo": "Master-skill",
+            "stars": 318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "月老·姻缘测算 Skills",
+          "description": "将姻缘测算整理为多模式传统术数技能，用于合婚、求签与桃花运势分析。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-05T08:09:38Z",
+            "owner": "Ming-H",
+            "repo": "yinyuan-skills",
+            "stars": 267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "堪舆子",
+          "description": "从传统堪舆典籍中整理玄空飞星、八宅明镜与择日方法，形成以三元世家传人视角为人格的风水顾问技能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-11T22:28:17Z",
+            "owner": "voidforall",
+            "repo": "fengshui.skill",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "金刚经.skill",
+          "description": "基于《金刚经》及相关解读整理佛学讲解框架，形成可对话的专门化技能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-05T14:52:21Z",
+            "owner": "dull-bird",
+            "repo": "diamond-sutra-skill",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "精神性与专门化主题"
+    },
+    {
+      "description": "申请新增收录请先提交 issue 表单；维护者审核并添加 标签后，工作流会自动生成 PR。\n如果你是在修复现有条目、文档或失效链接，仍可直接提交 PR。具体约定见 。",
+      "items": [],
+      "title": "贡献"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:20:12.122Z",
+    "original_repository": "xixu-me/awesome-persona-distill-skills",
+    "original_repository_sha": "9a4babe9ba91b40a34905428cb523f4a6a806eb5",
+    "enhanced_repository": "enhansome/enhansome-persona-distill-skills",
+    "enhanced_repository_description": null,
+    "title": "Awesome persona distill skills with stars"
+  }
+}
