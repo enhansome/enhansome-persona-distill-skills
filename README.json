@@ -19,7 +19,7 @@
             "last_commit": "2026-07-27T04:38:20Z",
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 30790
+            "stars": 30862
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-04-01T16:38:03Z",
             "owner": "notdog1998",
             "repo": "yourself-skill",
-            "stars": 3303
+            "stars": 3311
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-16T06:55:44Z",
             "owner": "swaylq",
             "repo": "master-skill",
-            "stars": 117
+            "stars": 118
           }
         },
         {
@@ -235,7 +235,7 @@
             "last_commit": "2026-08-13T15:00:28Z",
             "owner": "titanwings",
             "repo": "colleague-skill",
-            "stars": 23052
+            "stars": 23287
           }
         },
         {
@@ -339,7 +339,7 @@
             "last_commit": "2026-04-08T16:46:35Z",
             "owner": "therealXiaomanChu",
             "repo": "ex-skill",
-            "stars": 6012
+            "stars": 6038
           }
         },
         {
@@ -443,7 +443,7 @@
             "last_commit": "2026-05-28T00:10:21Z",
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10155
+            "stars": 10163
           }
         },
         {
@@ -457,7 +457,7 @@
             "last_commit": "2026-07-20T19:04:56Z",
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3714
+            "stars": 3716
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2026-06-22T07:00:28Z",
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2572
+            "stars": 2573
           }
         },
         {
@@ -485,7 +485,7 @@
             "last_commit": "2026-05-28T00:11:59Z",
             "owner": "alchaincyf",
             "repo": "x-mentor-skill",
-            "stars": 1159
+            "stars": 1163
           }
         },
         {
@@ -499,7 +499,7 @@
             "last_commit": "2026-07-08T08:27:51Z",
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1050
+            "stars": 1053
           }
         },
         {
@@ -555,7 +555,7 @@
             "last_commit": "2026-08-12T06:25:03Z",
             "owner": "SamadhiFire",
             "repo": "xinqingnian-maoxuan-skill",
-            "stars": 306
+            "stars": 308
           }
         },
         {
@@ -569,7 +569,7 @@
             "last_commit": "2026-05-28T00:07:28Z",
             "owner": "alchaincyf",
             "repo": "karpathy-skill",
-            "stars": 292
+            "stars": 293
           }
         },
         {
@@ -625,7 +625,7 @@
             "last_commit": "2026-05-28T00:08:14Z",
             "owner": "alchaincyf",
             "repo": "naval-skill",
-            "stars": 229
+            "stars": 230
           }
         },
         {
@@ -639,7 +639,7 @@
             "last_commit": "2026-04-06T02:12:49Z",
             "owner": "will2025btc",
             "repo": "buffett-perspective",
-            "stars": 211
+            "stars": 212
           }
         },
         {
@@ -667,7 +667,7 @@
             "last_commit": "2026-04-07T13:15:15Z",
             "owner": "rottenpen",
             "repo": "fengge-wangmingtianya-perspective",
-            "stars": 135
+            "stars": 137
           }
         },
         {
@@ -695,7 +695,7 @@
             "last_commit": "2026-05-28T00:07:59Z",
             "owner": "alchaincyf",
             "repo": "mrbeast-skill",
-            "stars": 101
+            "stars": 102
           }
         },
         {
@@ -709,7 +709,7 @@
             "last_commit": "2026-04-09T13:04:08Z",
             "owner": "wwwaapplleecu-source",
             "repo": "mao-skill",
-            "stars": 100
+            "stars": 101
           }
         },
         {
@@ -793,7 +793,7 @@
             "last_commit": "2026-04-09T11:06:11Z",
             "owner": "ByteRax",
             "repo": "guodegang-skills",
-            "stars": 11
+            "stars": 12
           }
         },
         {
@@ -949,11 +949,11 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": null,
-            "last_commit": "2026-04-04T18:46:04Z",
+            "language": "Python",
+            "last_commit": "2026-08-17T17:53:04Z",
             "owner": "jinchenma94",
             "repo": "bazi-skill",
-            "stars": 2566
+            "stars": 2584
           }
         },
         {
@@ -967,7 +967,7 @@
             "last_commit": "2026-08-03T05:05:19Z",
             "owner": "FANzR-arch",
             "repo": "Numerologist_skills",
-            "stars": 944
+            "stars": 946
           }
         },
         {
@@ -977,8 +977,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-12T04:20:32Z",
+            "language": "Python",
+            "last_commit": "2026-08-18T08:01:04Z",
             "owner": "xr843",
             "repo": "Master-skill",
             "stars": 320
@@ -995,7 +995,7 @@
             "last_commit": "2026-04-05T08:09:38Z",
             "owner": "Ming-H",
             "repo": "yinyuan-skills",
-            "stars": 267
+            "stars": 268
           }
         },
         {
@@ -1009,7 +1009,7 @@
             "last_commit": "2026-04-11T22:28:17Z",
             "owner": "voidforall",
             "repo": "fengshui.skill",
-            "stars": 97
+            "stars": 98
           }
         },
         {
@@ -1036,9 +1036,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:55:01.038Z",
+    "last_updated": "2026-08-18T09:46:45.803Z",
     "original_repository": "xixu-me/awesome-persona-distill-skills",
-    "original_repository_sha": "b966f8a8c20e58ab5b351804ac3282fc4af1786b",
+    "original_repository_sha": "823aedd43b2a48c7c48f4812ec58b8e3621334fb",
     "enhanced_repository": "enhansome/enhansome-persona-distill-skills",
     "enhanced_repository_description": null,
     "title": "Awesome persona distill skills with stars"
