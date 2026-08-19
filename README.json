@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "Bloome 让你跳过本地安装和配置：把列表里的任意一个 skill 作为 agent 一键加进聊天，直接对话试用。喜欢就分享给别人，或拉进群一起玩，零配置。想挨个体验这个列表里的 skill，在 Bloome 上最快。",
-      "items": [],
-      "title": "不想挨个安装？试试 Bloome"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1201730379,
             "language": "Python",
             "last_commit": "2026-07-27T04:38:20Z",
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 30862
+            "stars": 30923
           }
         },
         {
@@ -29,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1198519767,
             "language": "Python",
             "last_commit": "2026-04-01T16:38:03Z",
             "owner": "notdog1998",
             "repo": "yourself-skill",
-            "stars": 3311
+            "stars": 3310
           }
         },
         {
@@ -43,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1198654685,
             "language": "Python",
             "last_commit": "2026-04-15T03:21:58Z",
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 985
+            "stars": 988
           }
         },
         {
@@ -57,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1242180484,
             "language": "Shell",
             "last_commit": "2026-08-16T06:55:44Z",
             "owner": "swaylq",
             "repo": "master-skill",
-            "stars": 118
+            "stars": 119
           }
         },
         {
@@ -71,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1201394364,
             "language": "Python",
             "last_commit": "2026-04-08T10:49:12Z",
             "owner": "YIKUAIBANZI",
             "repo": "forge-skill",
-            "stars": 108
+            "stars": 109
           }
         },
         {
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1197977137,
             "language": "Python",
             "last_commit": "2026-06-30T15:49:14Z",
             "owner": "wildbyteai",
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1200888419,
             "language": null,
             "last_commit": "2026-04-02T10:51:19Z",
             "owner": "lcmomo",
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1200340062,
             "language": "HTML",
             "last_commit": "2026-04-08T15:58:51Z",
             "owner": "dadwadw233",
@@ -127,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1201756235,
             "language": null,
             "last_commit": "2026-04-09T05:44:54Z",
             "owner": "weixr18",
@@ -141,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1205671241,
             "language": "TypeScript",
             "last_commit": "2026-04-12T14:25:34Z",
             "owner": "cantian-ai",
@@ -155,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1207837237,
             "language": null,
             "last_commit": "2026-04-12T13:40:47Z",
             "owner": "linzzzzzz",
@@ -169,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1205622056,
             "language": "Python",
             "last_commit": "2026-04-09T07:20:20Z",
             "owner": "henryjohnbrand",
@@ -183,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1205640896,
             "language": null,
             "last_commit": "2026-04-10T03:53:51Z",
             "owner": "Aar0nPB",
@@ -197,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1206964808,
             "language": "Python",
             "last_commit": "2026-04-13T10:38:28Z",
             "owner": "Tomsawyerhu",
@@ -211,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1218645109,
             "language": "Python",
             "last_commit": "2026-04-23T07:17:35Z",
             "owner": "c0ffee-milk",
@@ -222,7 +232,7 @@
       "title": "自我蒸馏与元工具"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -231,11 +241,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1195828337,
             "language": "Python",
-            "last_commit": "2026-08-13T15:00:28Z",
+            "last_commit": "2026-08-19T07:18:20Z",
             "owner": "titanwings",
             "repo": "colleague-skill",
-            "stars": 23287
+            "stars": 23484
           }
         },
         {
@@ -245,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1197329615,
             "language": "Python",
             "last_commit": "2026-06-11T05:53:25Z",
             "owner": "vogtsw",
@@ -259,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1196855158,
             "language": "JavaScript",
             "last_commit": "2026-04-07T04:55:47Z",
             "owner": "ybq22",
@@ -273,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1199435898,
             "language": "Python",
             "last_commit": "2026-04-10T08:36:02Z",
             "owner": "zhang-haichao",
@@ -287,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1200074797,
             "language": "Python",
             "last_commit": "2026-04-11T10:06:59Z",
             "owner": "CommitHu502Craft",
@@ -301,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1202476007,
             "language": null,
             "last_commit": "2026-04-06T20:23:17Z",
             "owner": "Schlaflied",
@@ -315,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1203158335,
             "language": null,
             "last_commit": "2026-04-07T20:33:52Z",
             "owner": "Schlaflied",
@@ -326,7 +343,7 @@
       "title": "职场与学术关系"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -335,11 +352,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1197055882,
             "language": "Python",
             "last_commit": "2026-04-08T16:46:35Z",
             "owner": "therealXiaomanChu",
             "repo": "ex-skill",
-            "stars": 6038
+            "stars": 6051
           }
         },
         {
@@ -349,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1199058630,
             "language": "Python",
             "last_commit": "2026-08-02T01:08:58Z",
             "owner": "xiaoheizi8",
@@ -363,11 +382,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1200441366,
             "language": "HTML",
             "last_commit": "2026-04-09T05:23:33Z",
             "owner": "TammyTan516",
             "repo": "relationship-training-skill",
-            "stars": 115
+            "stars": 116
           }
         },
         {
@@ -377,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1199062292,
             "language": "Python",
             "last_commit": "2026-04-02T14:09:12Z",
             "owner": "xiaoheizi8",
@@ -391,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1199393937,
             "language": "Python",
             "last_commit": "2026-04-06T08:46:09Z",
             "owner": "yangdongchen66-boop",
@@ -405,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1206820090,
             "language": "Python",
             "last_commit": "2026-04-10T10:32:40Z",
             "owner": "henryjohnbrand",
@@ -419,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1201081784,
             "language": "Python",
             "last_commit": "2026-04-04T08:28:31Z",
             "owner": "jiangziyan-693",
@@ -430,7 +454,7 @@
       "title": "亲密关系与家庭记忆"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -439,11 +463,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1201947430,
             "language": null,
             "last_commit": "2026-05-28T00:10:21Z",
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10163
+            "stars": 10166
           }
         },
         {
@@ -453,11 +478,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1191520000,
             "language": "JavaScript",
             "last_commit": "2026-07-20T19:04:56Z",
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3716
+            "stars": 3718
           }
         },
         {
@@ -467,11 +493,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1202158137,
             "language": null,
             "last_commit": "2026-06-22T07:00:28Z",
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2573
+            "stars": 2575
           }
         },
         {
@@ -481,11 +508,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1202683283,
             "language": null,
             "last_commit": "2026-05-28T00:11:59Z",
             "owner": "alchaincyf",
             "repo": "x-mentor-skill",
-            "stars": 1163
+            "stars": 1164
           }
         },
         {
@@ -495,11 +523,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1202815922,
             "language": null,
             "last_commit": "2026-07-08T08:27:51Z",
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1053
+            "stars": 1055
           }
         },
         {
@@ -509,6 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1201942857,
             "language": null,
             "last_commit": "2026-05-27T16:12:57Z",
             "owner": "alchaincyf",
@@ -523,11 +553,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1201946778,
             "language": null,
             "last_commit": "2026-05-28T00:07:36Z",
             "owner": "alchaincyf",
             "repo": "elon-musk-skill",
-            "stars": 483
+            "stars": 485
           }
         },
         {
@@ -537,11 +568,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1201946711,
             "language": null,
             "last_commit": "2026-05-28T00:08:06Z",
             "owner": "alchaincyf",
             "repo": "munger-skill",
-            "stars": 341
+            "stars": 342
           }
         },
         {
@@ -551,11 +583,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1204499820,
             "language": "HTML",
             "last_commit": "2026-08-12T06:25:03Z",
             "owner": "SamadhiFire",
             "repo": "xinqingnian-maoxuan-skill",
-            "stars": 308
+            "stars": 309
           }
         },
         {
@@ -565,11 +598,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1203030411,
             "language": null,
             "last_commit": "2026-05-28T00:07:28Z",
             "owner": "alchaincyf",
             "repo": "karpathy-skill",
-            "stars": 293
+            "stars": 294
           }
         },
         {
@@ -579,6 +613,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1203031153,
             "language": null,
             "last_commit": "2026-05-28T00:08:51Z",
             "owner": "alchaincyf",
@@ -593,11 +628,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1201949223,
             "language": null,
             "last_commit": "2026-05-28T00:07:39Z",
             "owner": "alchaincyf",
             "repo": "feynman-skill",
-            "stars": 246
+            "stars": 247
           }
         },
         {
@@ -607,6 +643,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1202698081,
             "language": "Python",
             "last_commit": "2026-04-08T09:19:40Z",
             "owner": "Janlaywss",
@@ -621,6 +658,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1201946559,
             "language": null,
             "last_commit": "2026-05-28T00:08:14Z",
             "owner": "alchaincyf",
@@ -635,6 +673,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1202417965,
             "language": null,
             "last_commit": "2026-04-06T02:12:49Z",
             "owner": "will2025btc",
@@ -649,6 +688,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1203030418,
             "language": null,
             "last_commit": "2026-05-28T00:08:59Z",
             "owner": "alchaincyf",
@@ -663,6 +703,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1202624649,
             "language": null,
             "last_commit": "2026-04-07T13:15:15Z",
             "owner": "rottenpen",
@@ -677,6 +718,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1201952391,
             "language": null,
             "last_commit": "2026-05-28T00:08:44Z",
             "owner": "alchaincyf",
@@ -691,6 +733,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1203031623,
             "language": "Python",
             "last_commit": "2026-05-28T00:07:59Z",
             "owner": "alchaincyf",
@@ -705,6 +748,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1204762471,
             "language": "Python",
             "last_commit": "2026-04-09T13:04:08Z",
             "owner": "wwwaapplleecu-source",
@@ -719,6 +763,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1203030141,
             "language": null,
             "last_commit": "2026-05-28T00:08:22Z",
             "owner": "alchaincyf",
@@ -733,6 +778,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1203030380,
             "language": null,
             "last_commit": "2026-05-28T00:07:51Z",
             "owner": "alchaincyf",
@@ -747,6 +793,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1206742263,
             "language": null,
             "last_commit": "2026-04-15T12:55:19Z",
             "owner": "youaifuou",
@@ -761,6 +808,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1201741145,
             "language": null,
             "last_commit": "2026-04-05T07:20:00Z",
             "owner": "baojiachen0214",
@@ -775,6 +823,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1204638199,
             "language": null,
             "last_commit": "2026-04-08T09:40:21Z",
             "owner": "Ricardo-Vv",
@@ -789,6 +838,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1205838993,
             "language": null,
             "last_commit": "2026-04-09T11:06:11Z",
             "owner": "ByteRax",
@@ -803,6 +853,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1205717418,
             "language": null,
             "last_commit": "2026-04-09T08:08:52Z",
             "owner": "JikunR",
@@ -817,6 +868,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1200216568,
             "language": "Python",
             "last_commit": "2026-04-06T09:54:03Z",
             "owner": "yanghaoraneve",
@@ -831,6 +883,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1207166713,
             "language": null,
             "last_commit": "2026-04-10T17:37:12Z",
             "owner": "1sh1ro",
@@ -845,6 +898,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1205953435,
             "language": null,
             "last_commit": "2026-04-09T13:36:55Z",
             "owner": "LijiayuDeng",
@@ -859,6 +913,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1237294701,
             "language": null,
             "last_commit": "2026-05-13T03:58:21Z",
             "owner": "youaifuou",
@@ -873,6 +928,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1218540849,
             "language": "HTML",
             "last_commit": "2026-04-23T08:40:58Z",
             "owner": "fisher-yu-like",
@@ -887,6 +943,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1216917171,
             "language": "HTML",
             "last_commit": "2026-04-23T08:44:19Z",
             "owner": "fisher-yu-like",
@@ -901,6 +958,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1204805439,
             "language": null,
             "last_commit": "2026-04-09T02:20:45Z",
             "owner": "smallnest",
@@ -915,6 +973,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1208326663,
             "language": null,
             "last_commit": "2026-04-13T03:12:48Z",
             "owner": "TerryTian-tech",
@@ -929,6 +988,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1217194546,
             "language": null,
             "last_commit": "2026-04-23T08:42:25Z",
             "owner": "fisher-yu-like",
@@ -940,7 +1000,7 @@
       "title": "公众人物与方法论视角"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -949,11 +1009,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1201480438,
             "language": "Python",
             "last_commit": "2026-08-17T17:53:04Z",
             "owner": "jinchenma94",
             "repo": "bazi-skill",
-            "stars": 2584
+            "stars": 2601
           }
         },
         {
@@ -963,11 +1024,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1191558200,
             "language": "Python",
             "last_commit": "2026-08-03T05:05:19Z",
             "owner": "FANzR-arch",
             "repo": "Numerologist_skills",
-            "stars": 946
+            "stars": 947
           }
         },
         {
@@ -977,6 +1039,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1201167354,
             "language": "Python",
             "last_commit": "2026-08-18T08:01:04Z",
             "owner": "xr843",
@@ -991,11 +1054,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1201828334,
             "language": null,
             "last_commit": "2026-04-05T08:09:38Z",
             "owner": "Ming-H",
             "repo": "yinyuan-skills",
-            "stars": 268
+            "stars": 269
           }
         },
         {
@@ -1005,11 +1069,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1208155058,
             "language": null,
             "last_commit": "2026-04-11T22:28:17Z",
             "owner": "voidforall",
             "repo": "fengshui.skill",
-            "stars": 98
+            "stars": 100
           }
         },
         {
@@ -1019,6 +1084,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1205591862,
             "language": "TypeScript",
             "last_commit": "2026-07-05T14:52:21Z",
             "owner": "dull-bird",
@@ -1028,17 +1094,12 @@
         }
       ],
       "title": "精神性与专门化主题"
-    },
-    {
-      "description": "申请新增收录请先提交 issue 表单；维护者审核并添加 标签后，工作流会自动生成 PR。\n如果你是在修复现有条目、文档或失效链接，仍可直接提交 PR。具体约定见 。",
-      "items": [],
-      "title": "贡献"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:46:45.803Z",
+    "last_updated": "2026-08-19T09:47:48.366Z",
     "original_repository": "xixu-me/awesome-persona-distill-skills",
-    "original_repository_sha": "823aedd43b2a48c7c48f4812ec58b8e3621334fb",
+    "original_repository_sha": "4404a1d2017dbeb6a72d506a1da7620d600717cc",
     "enhanced_repository": "enhansome/enhansome-persona-distill-skills",
     "enhanced_repository_description": null,
     "title": "Awesome persona distill skills with stars"
