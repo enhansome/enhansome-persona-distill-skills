@@ -15,7 +15,7 @@
             "last_commit": "2026-07-27T04:38:20Z",
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 30923
+            "stars": 30931
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-04-01T16:38:03Z",
             "owner": "notdog1998",
             "repo": "yourself-skill",
-            "stars": 3310
+            "stars": 3312
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-04-15T03:21:58Z",
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 988
+            "stars": 990
           }
         },
         {
@@ -243,10 +243,10 @@
             "archived": false,
             "id": 1195828337,
             "language": "Python",
-            "last_commit": "2026-08-19T07:18:20Z",
+            "last_commit": "2026-08-19T11:11:54Z",
             "owner": "titanwings",
             "repo": "colleague-skill",
-            "stars": 23484
+            "stars": 23503
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2026-04-08T16:46:35Z",
             "owner": "therealXiaomanChu",
             "repo": "ex-skill",
-            "stars": 6051
+            "stars": 6052
           }
         },
         {
@@ -468,7 +468,7 @@
             "last_commit": "2026-05-28T00:10:21Z",
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10166
+            "stars": 10167
           }
         },
         {
@@ -525,10 +525,10 @@
             "archived": false,
             "id": 1202815922,
             "language": null,
-            "last_commit": "2026-07-08T08:27:51Z",
+            "last_commit": "2026-08-19T11:59:07Z",
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1055
+            "stars": 1056
           }
         },
         {
@@ -588,7 +588,7 @@
             "last_commit": "2026-08-12T06:25:03Z",
             "owner": "SamadhiFire",
             "repo": "xinqingnian-maoxuan-skill",
-            "stars": 309
+            "stars": 310
           }
         },
         {
@@ -663,7 +663,7 @@
             "last_commit": "2026-05-28T00:08:14Z",
             "owner": "alchaincyf",
             "repo": "naval-skill",
-            "stars": 230
+            "stars": 231
           }
         },
         {
@@ -1014,7 +1014,7 @@
             "last_commit": "2026-08-17T17:53:04Z",
             "owner": "jinchenma94",
             "repo": "bazi-skill",
-            "stars": 2601
+            "stars": 2602
           }
         },
         {
@@ -1097,8 +1097,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:47:48.366Z",
+    "last_updated": "2026-08-19T12:44:44.801Z",
     "original_repository": "xixu-me/awesome-persona-distill-skills",
+    "original_repository_id": 1203185600,
     "original_repository_sha": "4404a1d2017dbeb6a72d506a1da7620d600717cc",
     "enhanced_repository": "enhansome/enhansome-persona-distill-skills",
     "enhanced_repository_description": null,
