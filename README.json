@@ -15,7 +15,7 @@
             "last_commit": "2026-07-27T04:38:20Z",
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 30999
+            "stars": 31081
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-04-01T16:38:03Z",
             "owner": "notdog1998",
             "repo": "yourself-skill",
-            "stars": 3314
+            "stars": 3316
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-04-15T03:21:58Z",
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 991
+            "stars": 992
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-04-08T10:49:12Z",
             "owner": "YIKUAIBANZI",
             "repo": "forge-skill",
-            "stars": 109
+            "stars": 111
           }
         },
         {
@@ -243,10 +243,10 @@
             "archived": false,
             "id": 1195828337,
             "language": "Python",
-            "last_commit": "2026-08-19T11:11:54Z",
+            "last_commit": "2026-08-21T03:19:45Z",
             "owner": "titanwings",
             "repo": "colleague-skill",
-            "stars": 23603
+            "stars": 23707
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2026-06-11T05:53:25Z",
             "owner": "vogtsw",
             "repo": "boss-skills",
-            "stars": 237
+            "stars": 238
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2026-04-08T16:46:35Z",
             "owner": "therealXiaomanChu",
             "repo": "ex-skill",
-            "stars": 6069
+            "stars": 6076
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2026-08-02T01:08:58Z",
             "owner": "xiaoheizi8",
             "repo": "crush-skills",
-            "stars": 240
+            "stars": 241
           }
         },
         {
@@ -468,7 +468,7 @@
             "last_commit": "2026-05-28T00:10:21Z",
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10171
+            "stars": 10178
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2026-07-20T19:04:56Z",
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3721
+            "stars": 3724
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2026-06-22T07:00:28Z",
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2579
+            "stars": 2580
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2026-05-28T00:11:59Z",
             "owner": "alchaincyf",
             "repo": "x-mentor-skill",
-            "stars": 1166
+            "stars": 1170
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2026-08-19T11:59:07Z",
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1061
+            "stars": 1065
           }
         },
         {
@@ -588,7 +588,7 @@
             "last_commit": "2026-08-12T06:25:03Z",
             "owner": "SamadhiFire",
             "repo": "xinqingnian-maoxuan-skill",
-            "stars": 311
+            "stars": 312
           }
         },
         {
@@ -603,7 +603,7 @@
             "last_commit": "2026-05-28T00:07:28Z",
             "owner": "alchaincyf",
             "repo": "karpathy-skill",
-            "stars": 294
+            "stars": 295
           }
         },
         {
@@ -633,7 +633,7 @@
             "last_commit": "2026-05-28T00:07:39Z",
             "owner": "alchaincyf",
             "repo": "feynman-skill",
-            "stars": 249
+            "stars": 252
           }
         },
         {
@@ -693,7 +693,7 @@
             "last_commit": "2026-05-28T00:08:59Z",
             "owner": "alchaincyf",
             "repo": "zhang-yiming-skill",
-            "stars": 158
+            "stars": 159
           }
         },
         {
@@ -723,22 +723,7 @@
             "last_commit": "2026-05-28T00:08:44Z",
             "owner": "alchaincyf",
             "repo": "taleb-skill",
-            "stars": 115
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MrBeast.skill",
-          "description": "提炼 MrBeast 的内容选题、包装与观众留存方法，形成可复用的创作打法。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1203031623,
-            "language": "Python",
-            "last_commit": "2026-05-28T00:07:59Z",
-            "owner": "alchaincyf",
-            "repo": "mrbeast-skill",
-            "stars": 103
+            "stars": 116
           }
         },
         {
@@ -753,7 +738,22 @@
             "last_commit": "2026-04-09T13:04:08Z",
             "owner": "wwwaapplleecu-source",
             "repo": "mao-skill",
-            "stars": 102
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MrBeast.skill",
+          "description": "提炼 MrBeast 的内容选题、包装与观众留存方法，形成可复用的创作打法。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1203031623,
+            "language": "Python",
+            "last_commit": "2026-05-28T00:07:59Z",
+            "owner": "alchaincyf",
+            "repo": "mrbeast-skill",
+            "stars": 104
           }
         },
         {
@@ -858,7 +858,7 @@
             "last_commit": "2026-04-09T08:08:52Z",
             "owner": "JikunR",
             "repo": "zizek-skill",
-            "stars": 8
+            "stars": 9
           }
         },
         {
@@ -873,7 +873,7 @@
             "last_commit": "2026-04-06T09:54:03Z",
             "owner": "yanghaoraneve",
             "repo": "star-skill",
-            "stars": 7
+            "stars": 8
           }
         },
         {
@@ -1014,7 +1014,7 @@
             "last_commit": "2026-08-17T17:53:04Z",
             "owner": "jinchenma94",
             "repo": "bazi-skill",
-            "stars": 2617
+            "stars": 2635
           }
         },
         {
@@ -1029,7 +1029,7 @@
             "last_commit": "2026-08-03T05:05:19Z",
             "owner": "FANzR-arch",
             "repo": "Numerologist_skills",
-            "stars": 948
+            "stars": 952
           }
         },
         {
@@ -1074,7 +1074,7 @@
             "last_commit": "2026-04-11T22:28:17Z",
             "owner": "voidforall",
             "repo": "fengshui.skill",
-            "stars": 101
+            "stars": 102
           }
         },
         {
@@ -1097,7 +1097,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T09:48:25.825Z",
+    "last_updated": "2026-08-21T09:50:48.365Z",
     "original_repository": "xixu-me/awesome-persona-distill-skills",
     "original_repository_id": 1203185600,
     "original_repository_sha": "4404a1d2017dbeb6a72d506a1da7620d600717cc",
