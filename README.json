@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 35382,
+            "stars": 35547,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -40,7 +40,7 @@
             "open_issues": 22,
             "owner": "notdog1998",
             "repo": "yourself-skill",
-            "stars": 3473,
+            "stars": 3476,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -61,7 +61,7 @@
             "open_issues": 7,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1108,
+            "stars": 1110,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -131,7 +131,7 @@
             "open_issues": 2,
             "owner": "YIKUAIBANZI",
             "repo": "forge-skill",
-            "stars": 124,
+            "stars": 125,
             "topics": [
               "ai-agent",
               "claude-code",
@@ -160,7 +160,7 @@
             "open_issues": 0,
             "owner": "wildbyteai",
             "repo": "digital-life",
-            "stars": 66,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -389,7 +389,7 @@
             "open_issues": 72,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 25874,
+            "stars": 25914,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -578,7 +578,7 @@
             "open_issues": 20,
             "owner": "therealXiaomanChu",
             "repo": "ex-skill",
-            "stars": 6523,
+            "stars": 6527,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -744,7 +744,7 @@
             "open_issues": 25,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10559,
+            "stars": 10569,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -765,7 +765,7 @@
             "open_issues": 20,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3821,
+            "stars": 3822,
             "topics": [
               "ai-agents",
               "methodology",
@@ -791,7 +791,7 @@
             "open_issues": 19,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2932,
+            "stars": 2935,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -812,7 +812,7 @@
             "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "x-mentor-skill",
-            "stars": 1298,
+            "stars": 1300,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -833,7 +833,7 @@
             "open_issues": 4,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1234,
+            "stars": 1241,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -854,7 +854,7 @@
             "open_issues": 4,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 967,
+            "stars": 968,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -875,7 +875,7 @@
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "elon-musk-skill",
-            "stars": 550,
+            "stars": 551,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -964,7 +964,7 @@
             "open_issues": 2,
             "owner": "alchaincyf",
             "repo": "feynman-skill",
-            "stars": 302,
+            "stars": 303,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -1090,7 +1090,7 @@
             "open_issues": 3,
             "owner": "rottenpen",
             "repo": "fengge-wangmingtianya-perspective",
-            "stars": 173,
+            "stars": 174,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -1223,7 +1223,7 @@
             "open_issues": 0,
             "owner": "youaifuou",
             "repo": "karl-marx-skill",
-            "stars": 43,
+            "stars": 44,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -1537,7 +1537,7 @@
             "open_issues": 11,
             "owner": "jinchenma94",
             "repo": "bazi-skill",
-            "stars": 3554,
+            "stars": 3567,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -1558,7 +1558,28 @@
             "open_issues": 5,
             "owner": "FANzR-arch",
             "repo": "Numerologist_skills",
-            "stars": 1483,
+            "stars": 1489,
+            "topics": []
+          },
+          "first_seen": "2026-10-03T14:18:07.870Z"
+        },
+        {
+          "node_type": "item",
+          "title": "月老·姻缘测算 Skills",
+          "description": "将姻缘测算整理为多模式传统术数技能，用于合婚、求签与桃花运势分析。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "yinyuan-skills",
+            "homepage": null,
+            "id": 1201828334,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-04-05T08:09:38Z",
+            "open_issues": 3,
+            "owner": "Ming-H",
+            "repo": "yinyuan-skills",
+            "stars": 471,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -1602,27 +1623,6 @@
         },
         {
           "node_type": "item",
-          "title": "月老·姻缘测算 Skills",
-          "description": "将姻缘测算整理为多模式传统术数技能，用于合婚、求签与桃花运势分析。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "yinyuan-skills",
-            "homepage": null,
-            "id": 1201828334,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-04-05T08:09:38Z",
-            "open_issues": 3,
-            "owner": "Ming-H",
-            "repo": "yinyuan-skills",
-            "stars": 470,
-            "topics": []
-          },
-          "first_seen": "2026-10-03T14:18:07.870Z"
-        },
-        {
-          "node_type": "item",
           "title": "堪舆子",
           "description": "从传统堪舆典籍中整理玄空飞星、八宅明镜与择日方法，形成以三元世家传人视角为人格的风水顾问技能。",
           "children": [],
@@ -1637,7 +1637,7 @@
             "open_issues": 0,
             "owner": "voidforall",
             "repo": "fengshui.skill",
-            "stars": 341,
+            "stars": 344,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -1668,7 +1668,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T14:27:44.224Z",
+    "last_updated": "2026-10-22T14:29:17.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
@@ -1680,7 +1680,7 @@
       "open_issues": 3,
       "owner": "xixu-me",
       "repo": "awesome-persona-distill-skills",
-      "stars": 4706,
+      "stars": 4707,
       "topics": [
         "agent-skills",
         "awesome",
