@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-24T16:12:03Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 36139,
+            "stars": 36368,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -40,7 +40,7 @@
             "open_issues": 22,
             "owner": "notdog1998",
             "repo": "yourself-skill",
-            "stars": 3491,
+            "stars": 3494,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -61,7 +61,7 @@
             "open_issues": 7,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1124,
+            "stars": 1127,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -96,7 +96,7 @@
             "open_issues": 0,
             "owner": "swaylq",
             "repo": "master-skill",
-            "stars": 171,
+            "stars": 172,
             "topics": [
               "agent",
               "agent-skills",
@@ -386,10 +386,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-13T05:57:17Z",
-            "open_issues": 72,
+            "open_issues": 73,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 26047,
+            "stars": 26099,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -493,7 +493,7 @@
             "open_issues": 6,
             "owner": "CommitHu502Craft",
             "repo": "professor-skill",
-            "stars": 63,
+            "stars": 64,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -578,7 +578,7 @@
             "open_issues": 20,
             "owner": "therealXiaomanChu",
             "repo": "ex-skill",
-            "stars": 6552,
+            "stars": 6562,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -599,7 +599,7 @@
             "open_issues": 4,
             "owner": "xiaoheizi8",
             "repo": "crush-skills",
-            "stars": 369,
+            "stars": 371,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -744,7 +744,7 @@
             "open_issues": 25,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10611,
+            "stars": 10627,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -765,7 +765,7 @@
             "open_issues": 20,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3829,
+            "stars": 3832,
             "topics": [
               "ai-agents",
               "methodology",
@@ -788,10 +788,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-06-22T07:00:28Z",
-            "open_issues": 19,
+            "open_issues": 22,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2948,
+            "stars": 2951,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -812,7 +812,7 @@
             "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "x-mentor-skill",
-            "stars": 1305,
+            "stars": 1308,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -1006,7 +1006,7 @@
             "open_issues": 4,
             "owner": "alchaincyf",
             "repo": "naval-skill",
-            "stars": 265,
+            "stars": 266,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -1055,6 +1055,27 @@
         },
         {
           "node_type": "item",
+          "title": "峰哥亡命天涯 Skill",
+          "description": "提炼“峰哥亡命天涯”的现实主义、止损导向与黑色幽默式表达结构，形成可复用的方法论视角。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "峰哥skill",
+            "homepage": null,
+            "id": 1202624649,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-04-07T13:15:15Z",
+            "open_issues": 3,
+            "owner": "rottenpen",
+            "repo": "fengge-wangmingtianya-perspective",
+            "stars": 179,
+            "topics": []
+          },
+          "first_seen": "2026-10-03T14:18:07.870Z"
+        },
+        {
+          "node_type": "item",
           "title": "张一鸣.skill",
           "description": "提炼张一鸣的产品、组织与战略判断框架，形成可复用的方法论视角。",
           "children": [],
@@ -1070,27 +1091,6 @@
             "owner": "alchaincyf",
             "repo": "zhang-yiming-skill",
             "stars": 178,
-            "topics": []
-          },
-          "first_seen": "2026-10-03T14:18:07.870Z"
-        },
-        {
-          "node_type": "item",
-          "title": "峰哥亡命天涯 Skill",
-          "description": "提炼“峰哥亡命天涯”的现实主义、止损导向与黑色幽默式表达结构，形成可复用的方法论视角。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "峰哥skill",
-            "homepage": null,
-            "id": 1202624649,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-04-07T13:15:15Z",
-            "open_issues": 3,
-            "owner": "rottenpen",
-            "repo": "fengge-wangmingtianya-perspective",
-            "stars": 177,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -1537,7 +1537,7 @@
             "open_issues": 12,
             "owner": "jinchenma94",
             "repo": "bazi-skill",
-            "stars": 3618,
+            "stars": 3635,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -1558,7 +1558,7 @@
             "open_issues": 6,
             "owner": "FANzR-arch",
             "repo": "Numerologist_skills",
-            "stars": 1502,
+            "stars": 1505,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -1579,7 +1579,7 @@
             "open_issues": 3,
             "owner": "Ming-H",
             "repo": "yinyuan-skills",
-            "stars": 476,
+            "stars": 477,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -1637,7 +1637,7 @@
             "open_issues": 0,
             "owner": "voidforall",
             "repo": "fengshui.skill",
-            "stars": 354,
+            "stars": 357,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -1668,7 +1668,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T16:04:59.006Z",
+    "last_updated": "2026-10-27T15:19:03.980Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
@@ -1680,7 +1680,7 @@
       "open_issues": 3,
       "owner": "xixu-me",
       "repo": "awesome-persona-distill-skills",
-      "stars": 4717,
+      "stars": 4719,
       "topics": [
         "agent-skills",
         "awesome",
