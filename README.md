@@ -60,9 +60,9 @@
 
 ## 自我蒸馏与元工具
 
-* [女娲.skill](https://github.com/alchaincyf/nuwa-skill) ⭐ 36,757 | 🐛 28 | 🌐 Python | 📅 2026-10-24 - 从个人的心智模型、决策启发式与表达模式中提炼可复用技能。
-* [自己.skill](https://github.com/notdog1998/yourself-skill) ⭐ 3,498 | 🐛 22 | 🌐 Python | 📅 2026-04-01 - 将个人对话与记录整理为自我蒸馏助手。
-* [永生.skill](https://github.com/agenmod/immortal-skill) ⭐ 1,130 | 🐛 7 | 🌐 Python | 📅 2026-04-15 - 从聊天记录与相关资料中整理多维数字人格画像。
+* [女娲.skill](https://github.com/alchaincyf/nuwa-skill) ⭐ 36,883 | 🐛 28 | 🌐 Python | 📅 2026-10-24 - 从个人的心智模型、决策启发式与表达模式中提炼可复用技能。
+* [自己.skill](https://github.com/notdog1998/yourself-skill) ⭐ 3,507 | 🐛 22 | 🌐 Python | 📅 2026-04-01 - 将个人对话与记录整理为自我蒸馏助手。
+* [永生.skill](https://github.com/agenmod/immortal-skill) ⭐ 1,131 | 🐛 7 | 🌐 Python | 📅 2026-04-15 - 从聊天记录与相关资料中整理多维数字人格画像。
 * [大师.skill](https://github.com/swaylq/master-skill) ⭐ 174 | 🐛 0 | 🌐 Shell | 📅 2026-09-06 - 从一个具体行业的从业经验中提炼判断方式、决策框架与工具习惯，形成可复用的方法论 skill。
 * [Forge Skill](https://github.com/YIKUAIBANZI/forge-skill) ⭐ 129 | 🐛 2 | 🌐 Python | 📅 2026-04-08 - 将自我蒸馏与他人蒸馏拆分为独立流程，用于自我镜像、记忆整理与角色化对话。
 * [数字人生.skills](https://github.com/wildbyteai/digital-life) ⭐ 67 | 🐛 0 | 🌐 Python | 📅 2026-06-30 - 从个人在日常工具中留下的数字痕迹中提炼结构化自我画像。
@@ -78,7 +78,7 @@
 
 ## 职场与学术关系
 
-* [同事.skill](https://github.com/titanwings/colleague-skill) ⭐ 26,175 | 🐛 73 | 🌐 Python | 📅 2026-10-13 - 从团队资料中整理前同事的工作上下文、习惯与沟通方式。
+* [同事.skill](https://github.com/titanwings/colleague-skill) ⭐ 26,212 | 🐛 72 | 🌐 Python | 📅 2026-10-13 - 从团队资料中整理前同事的工作上下文、习惯与沟通方式。
 * [老板.skill](https://github.com/vogtsw/boss-skills) ⭐ 249 | 🐛 5 | 🌐 Python | 📅 2026-06-11 - 从工作材料中提炼管理者的判断标准、评审风格与沟通预期。
 * [导师.skill](https://github.com/ybq22/supervisor) ⭐ 177 | 🐛 7 | 🌐 JavaScript | 📅 2026-04-07 - 将导师的指导风格整理为面向学生与教育工作者的导师助手。
 * [师兄.skill](https://github.com/zhanghaichao520/senpai-skill) ⭐ 89 | 🐛 4 | 🌐 Python | 📅 2026-08-31 - 从课题组材料中提炼资深成员的指导方式与救火风格。
@@ -88,7 +88,7 @@
 
 ## 亲密关系与家庭记忆
 
-* [前任.skill](https://github.com/therealXiaomanChu/ex-skill) ⭐ 6,572 | 🐛 20 | 🌐 Python | 📅 2026-04-08 - 从私人记录中整理说话方式与共同记忆，用于回忆与关系梳理。
+* [前任.skill](https://github.com/therealXiaomanChu/ex-skill) ⭐ 6,577 | 🐛 20 | 🌐 Python | 📅 2026-04-08 - 从私人记录中整理说话方式与共同记忆，用于回忆与关系梳理。
 * [暗恋对象.skill](https://github.com/xiaoheizi8/crush-skills) ⭐ 372 | 🐛 4 | 🌐 Python | 📅 2026-10-03 - 从聊天、照片与社交痕迹中提炼对话风格，用于个人回望与情感整理。
 * [恋爱训练营.skill](https://github.com/TammyTan516/relationship-training-skill) ⭐ 135 | 🐛 3 | 🌐 HTML | 📅 2026-04-09 - 基于聊天记录模拟心动对象的沟通风格，帮助用户在安全沙盒中练习表达、邀约与关系修复。
 * [父母.skill](https://github.com/xiaoheizi8/parents-skills) ⭐ 58 | 🐛 2 | 🌐 Python | 📅 2026-04-02 - 从个人材料中提炼父母的语气、习惯与家庭记忆。
@@ -98,23 +98,23 @@
 
 ## 公众人物与方法论视角
 
-* [张雪峰.skill](https://github.com/alchaincyf/zhangxuefeng-skill) ⭐ 10,647 | 🐛 25 | 📅 2026-10-13 - 提炼张雪峰在升学、考试与职业规划方面的实用框架，形成可复用的方法论视角。
-* [求是 Skill](https://github.com/HughYau/qiushi-skill) ⭐ 3,836 | 🐛 21 | 🌐 JavaScript | 📅 2026-10-01 - 从相关思想方法中整理实事求是、调查研究与战略判断等工具，形成可复用的问题分析框架。
-* [童锦程.skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) ⭐ 2,960 | 🐛 19 | 📅 2026-10-27 - 提炼童锦程在人际关系与情感判断上的直白视角与启发式。
-* [X 导师.skill](https://github.com/alchaincyf/x-mentor-skill) ⭐ 1,313 | 🐛 0 | 📅 2026-10-13 - 整合多位社交平台创作者的写作与增长打法，形成统一的导师式方法论技能。
-* [毛选.skill](https://github.com/leezythu/maoxuan-skill) ⭐ 1,255 | 🐛 4 | 📅 2026-08-19 - 提炼《毛选》中的矛盾分析、根据地思维与战略判断框架，形成可复用的方法论视角。
-* [乔布斯.skill](https://github.com/alchaincyf/steve-jobs-skill) ⭐ 971 | 🐛 5 | 📅 2026-10-13 - 提炼史蒂夫·乔布斯的产品判断、叙事风格与决策启发式，形成可复用的方法论框架。
+* [张雪峰.skill](https://github.com/alchaincyf/zhangxuefeng-skill) ⭐ 10,657 | 🐛 25 | 📅 2026-10-13 - 提炼张雪峰在升学、考试与职业规划方面的实用框架，形成可复用的方法论视角。
+* [求是 Skill](https://github.com/HughYau/qiushi-skill) ⭐ 3,843 | 🐛 21 | 🌐 JavaScript | 📅 2026-10-01 - 从相关思想方法中整理实事求是、调查研究与战略判断等工具，形成可复用的问题分析框架。
+* [童锦程.skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) ⭐ 2,963 | 🐛 19 | 📅 2026-10-27 - 提炼童锦程在人际关系与情感判断上的直白视角与启发式。
+* [X 导师.skill](https://github.com/alchaincyf/x-mentor-skill) ⭐ 1,314 | 🐛 0 | 📅 2026-10-13 - 整合多位社交平台创作者的写作与增长打法，形成统一的导师式方法论技能。
+* [毛选.skill](https://github.com/leezythu/maoxuan-skill) ⭐ 1,261 | 🐛 4 | 📅 2026-08-19 - 提炼《毛选》中的矛盾分析、根据地思维与战略判断框架，形成可复用的方法论视角。
+* [乔布斯.skill](https://github.com/alchaincyf/steve-jobs-skill) ⭐ 972 | 🐛 5 | 📅 2026-10-13 - 提炼史蒂夫·乔布斯的产品判断、叙事风格与决策启发式，形成可复用的方法论框架。
 * [马斯克.skill](https://github.com/alchaincyf/elon-musk-skill) ⭐ 556 | 🐛 2 | 📅 2026-10-13 - 提炼埃隆·马斯克的第一性原理与产品思维，形成可复用的决策框架。
 * [芒格.skill](https://github.com/alchaincyf/munger-skill) ⭐ 391 | 🐛 4 | 📅 2026-10-13 - 提炼查理·芒格的跨学科心智模型与决策启发式，形成可复用的方法论框架。
 * [新青年.Skill](https://github.com/SamadhiFire/xinqingnian-skill) ⭐ 370 | 🐛 0 | 🌐 HTML | 📅 2026-08-12 - 把“新中国最会解决问题的脑子”请来，当一次“临时参谋”。把《毛选》157篇文章进行蒸馏，将其方法论变成可执行的现实分析 skill。
-* [Karpathy.skill](https://github.com/alchaincyf/karpathy-skill) ⭐ 319 | 🐛 4 | 📅 2026-10-13 - 提炼 Andrej Karpathy 对 AI 工程、教育与研究的思考框架，形成可复用的方法论视角。
-* [费曼.skill](https://github.com/alchaincyf/feynman-skill) ⭐ 308 | 🐛 3 | 📅 2026-10-13 - 提炼理查德·费曼的解释风格与求真启发式，形成可复用的方法论框架。
-* [特朗普.skill](https://github.com/alchaincyf/trump-skill) ⭐ 271 | 🐛 3 | 📅 2026-10-13 - 提炼特朗普的谈判、锚定与权力博弈分析框架，形成可复用的方法论视角。
+* [Karpathy.skill](https://github.com/alchaincyf/karpathy-skill) ⭐ 320 | 🐛 4 | 📅 2026-10-13 - 提炼 Andrej Karpathy 对 AI 工程、教育与研究的思考框架，形成可复用的方法论视角。
+* [费曼.skill](https://github.com/alchaincyf/feynman-skill) ⭐ 309 | 🐛 3 | 📅 2026-10-13 - 提炼理查德·费曼的解释风格与求真启发式，形成可复用的方法论框架。
+* [特朗普.skill](https://github.com/alchaincyf/trump-skill) ⭐ 273 | 🐛 3 | 📅 2026-10-13 - 提炼特朗普的谈判、锚定与权力博弈分析框架，形成可复用的方法论视角。
 * [纳瓦尔.skill](https://github.com/alchaincyf/naval-skill) ⭐ 268 | 🐛 4 | 📅 2026-10-13 - 提炼纳瓦尔关于财富、杠杆与判断力的框架，形成可复用的方法论视角。
 * [户晨风.skill](https://github.com/Janlaywss/hu-chenfeng-skill) ⭐ 246 | 🐛 9 | 🌐 Python | 📅 2026-04-08 - 提炼户晨风的消费现实主义视角，用于分析消费、城市与职业选择。
-* [巴菲特思维操作系统](https://github.com/will2025btc/buffett-perspective) ⭐ 215 | 🐛 3 | 📅 2026-04-06 - 提炼沃伦·巴菲特的投资与决策框架，形成可复用的方法论视角。
-* [峰哥亡命天涯 Skill](https://github.com/rottenpen/fengge-wangmingtianya-perspective) ⭐ 183 | 🐛 3 | 📅 2026-04-07 - 提炼“峰哥亡命天涯”的现实主义、止损导向与黑色幽默式表达结构，形成可复用的方法论视角。
-* [张一鸣.skill](https://github.com/alchaincyf/zhang-yiming-skill) ⭐ 178 | 🐛 3 | 📅 2026-10-13 - 提炼张一鸣的产品、组织与战略判断框架，形成可复用的方法论视角。
+* [巴菲特思维操作系统](https://github.com/will2025btc/buffett-perspective) ⭐ 216 | 🐛 3 | 📅 2026-04-06 - 提炼沃伦·巴菲特的投资与决策框架，形成可复用的方法论视角。
+* [峰哥亡命天涯 Skill](https://github.com/rottenpen/fengge-wangmingtianya-perspective) ⭐ 185 | 🐛 3 | 📅 2026-04-07 - 提炼“峰哥亡命天涯”的现实主义、止损导向与黑色幽默式表达结构，形成可复用的方法论视角。
+* [张一鸣.skill](https://github.com/alchaincyf/zhang-yiming-skill) ⭐ 179 | 🐛 3 | 📅 2026-10-13 - 提炼张一鸣的产品、组织与战略判断框架，形成可复用的方法论视角。
 * [塔勒布.skill](https://github.com/alchaincyf/taleb-skill) ⭐ 130 | 🐛 2 | 📅 2026-10-13 - 提炼纳西姆·塔勒布关于反脆弱与风险的启发式，形成可复用的方法论框架。
 * [MrBeast.skill](https://github.com/alchaincyf/mrbeast-skill) ⭐ 122 | 🐛 2 | 🌐 Python | 📅 2026-10-13 - 提炼 MrBeast 的内容选题、包装与观众留存方法，形成可复用的创作打法。
 * [毛泽东.skill](https://github.com/wwwaapplleecu-source/mao-skill) ⭐ 112 | 🐛 0 | 🌐 Python | 📅 2026-04-09 - 基于公开著作提炼毛泽东的思想框架与方法论视角。
@@ -137,11 +137,11 @@
 
 ## 精神性与专门化主题
 
-* [赛博算命 Skill](https://github.com/jinchenma94/bazi-skill) ⭐ 3,677 | 🐛 12 | 🌐 Python | 📅 2026-08-17 - 基于出生信息与传统命理典籍整理四柱排盘与分析方法。
-* [Numerologist Skills](https://github.com/FANzR-arch/Numerologist_skills) ⭐ 1,526 | 🐛 6 | 🌐 Python | 📅 2026-10-16 - 用结构化知识库与脚本化约束整理奇门遁甲、紫微斗数等术数技能。
-* [月老·姻缘测算 Skills](https://github.com/Ming-H/yinyuan-skills) ⭐ 485 | 🐛 3 | 📅 2026-04-05 - 将姻缘测算整理为多模式传统术数技能，用于合婚、求签与桃花运势分析。
-* [Master-skill](https://github.com/xr843/Master-skill) ⭐ 476 | 🐛 2 | 🌐 Python | 📅 2026-10-29 - 基于佛教经典文献整理汉传佛教的教学风格与讲解视角。
-* [堪舆子](https://github.com/voidforall/fengshui.skill) ⭐ 366 | 🐛 0 | 📅 2026-09-20 - 从传统堪舆典籍中整理玄空飞星、八宅明镜与择日方法，形成以三元世家传人视角为人格的风水顾问技能。
+* [赛博算命 Skill](https://github.com/jinchenma94/bazi-skill) ⭐ 3,707 | 🐛 12 | 🌐 Python | 📅 2026-08-17 - 基于出生信息与传统命理典籍整理四柱排盘与分析方法。
+* [Numerologist Skills](https://github.com/FANzR-arch/Numerologist_skills) ⭐ 1,536 | 🐛 6 | 🌐 Python | 📅 2026-10-16 - 用结构化知识库与脚本化约束整理奇门遁甲、紫微斗数等术数技能。
+* [月老·姻缘测算 Skills](https://github.com/Ming-H/yinyuan-skills) ⭐ 488 | 🐛 3 | 📅 2026-04-05 - 将姻缘测算整理为多模式传统术数技能，用于合婚、求签与桃花运势分析。
+* [Master-skill](https://github.com/xr843/Master-skill) ⭐ 478 | 🐛 3 | 🌐 Python | 📅 2026-10-30 - 基于佛教经典文献整理汉传佛教的教学风格与讲解视角。
+* [堪舆子](https://github.com/voidforall/fengshui.skill) ⭐ 369 | 🐛 0 | 📅 2026-09-20 - 从传统堪舆典籍中整理玄空飞星、八宅明镜与择日方法，形成以三元世家传人视角为人格的风水顾问技能。
 * [金刚经.skill](https://github.com/dull-bird/diamond-sutra-skill) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-05 - 基于《金刚经》及相关解读整理佛学讲解框架，形成可对话的专门化技能。
 
 ## 贡献
@@ -156,4 +156,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
