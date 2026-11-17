@@ -15,11 +15,11 @@
             "id": 1201730379,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-15T05:31:03Z",
+            "last_commit": "2026-11-17T06:07:14Z",
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 38420,
+            "stars": 38496,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -82,7 +82,7 @@
             "open_issues": 7,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1148,
+            "stars": 1147,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -117,7 +117,7 @@
             "open_issues": 0,
             "owner": "swaylq",
             "repo": "master-skill",
-            "stars": 186,
+            "stars": 187,
             "topics": [
               "agent",
               "agent-skills",
@@ -152,7 +152,7 @@
             "open_issues": 2,
             "owner": "YIKUAIBANZI",
             "repo": "forge-skill",
-            "stars": 135,
+            "stars": 136,
             "topics": [
               "ai-agent",
               "claude-code",
@@ -410,7 +410,7 @@
             "open_issues": 75,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 26609,
+            "stars": 26637,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -744,7 +744,7 @@
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10787,
+            "stars": 10791,
             "topics": [
               "agent-skills",
               "career-planning",
@@ -786,7 +786,7 @@
             "open_issues": 21,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3860,
+            "stars": 3861,
             "topics": [
               "ai-agents",
               "methodology",
@@ -812,7 +812,7 @@
             "open_issues": 19,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2999,
+            "stars": 3000,
             "topics": [
               "dating"
             ]
@@ -835,7 +835,7 @@
             "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "x-mentor-skill",
-            "stars": 1343,
+            "stars": 1344,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -877,7 +877,7 @@
             "open_issues": 3,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1300,
+            "stars": 1301,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -898,7 +898,7 @@
             "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 980,
+            "stars": 981,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -939,7 +939,7 @@
             "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "elon-musk-skill",
-            "stars": 577,
+            "stars": 578,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -1047,7 +1047,7 @@
             "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "karpathy-skill",
-            "stars": 329,
+            "stars": 330,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -1088,7 +1088,7 @@
             "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "feynman-skill",
-            "stars": 321,
+            "stars": 322,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -1822,7 +1822,7 @@
             "open_issues": 12,
             "owner": "jinchenma94",
             "repo": "bazi-skill",
-            "stars": 3968,
+            "stars": 3978,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -1872,7 +1872,7 @@
             "open_issues": 3,
             "owner": "Ming-H",
             "repo": "yinyuan-skills",
-            "stars": 526,
+            "stars": 527,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -1885,11 +1885,11 @@
           "repo_info": {
             "archived": false,
             "description": "FoJin-powered Buddhist AI persona framework — source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
-            "homepage": "https://fojin.app/chat",
+            "homepage": "https://fojin.ai/",
             "id": 1201167354,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T00:10:20Z",
+            "last_commit": "2026-11-17T13:09:33Z",
             "open_issues": 3,
             "owner": "xr843",
             "repo": "Master-skill",
@@ -1926,11 +1926,11 @@
             "id": 1208155058,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-15T14:52:12Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-16T22:44:46Z",
+            "open_issues": 2,
             "owner": "voidforall",
             "repo": "fengshui.skill",
-            "stars": 427,
+            "stars": 429,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -1961,7 +1961,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T19:31:48.193Z",
+    "last_updated": "2026-11-17T18:30:20.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
@@ -1973,7 +1973,7 @@
       "open_issues": 5,
       "owner": "xixu-me",
       "repo": "awesome-persona-distill-skills",
-      "stars": 4746,
+      "stars": 4749,
       "topics": [
         "agent-skills",
         "awesome",
