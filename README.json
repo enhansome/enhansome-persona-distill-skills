@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 38805,
+            "stars": 38886,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -61,7 +61,7 @@
             "open_issues": 22,
             "owner": "notdog1998",
             "repo": "yourself-skill",
-            "stars": 3542,
+            "stars": 3547,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -82,7 +82,7 @@
             "open_issues": 7,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1155,
+            "stars": 1156,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -410,7 +410,7 @@
             "open_issues": 75,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 26776,
+            "stars": 26806,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -493,7 +493,7 @@
             "open_issues": 6,
             "owner": "CommitHu502Craft",
             "repo": "professor-skill",
-            "stars": 65,
+            "stars": 66,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -578,7 +578,7 @@
             "open_issues": 21,
             "owner": "therealXiaomanChu",
             "repo": "ex-skill",
-            "stars": 6639,
+            "stars": 6641,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -641,7 +641,7 @@
             "open_issues": 2,
             "owner": "xiaoheizi8",
             "repo": "parents-skills",
-            "stars": 58,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -744,7 +744,7 @@
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10814,
+            "stars": 10815,
             "topics": [
               "agent-skills",
               "career-planning",
@@ -786,7 +786,7 @@
             "open_issues": 22,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3900,
+            "stars": 3901,
             "topics": [
               "ai-agents",
               "methodology",
@@ -803,18 +803,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "童锦程视角 Skill — 用深情祖师爷的思维框架分析人际关系",
+            "description": "童锦程 Skill · Tong Jincheng Skill for Claude Code — 怎么回女生消息、看透关系 | AI dating & texting advice from China's top love guru",
             "homepage": "https://r2i84a.chat/",
             "id": 1202158137,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-10T08:34:18Z",
+            "last_commit": "2026-11-23T04:59:31Z",
             "open_issues": 19,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 3007,
+            "stars": 3008,
             "topics": [
-              "dating"
+              "ai-wingman",
+              "claude-code",
+              "claude-skill",
+              "dating",
+              "dating-advice",
+              "relationship-advice",
+              "texting",
+              "tong-jincheng",
+              "tongjincheng-skill"
             ]
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -835,7 +843,7 @@
             "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "x-mentor-skill",
-            "stars": 1346,
+            "stars": 1349,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -877,7 +885,7 @@
             "open_issues": 3,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1309,
+            "stars": 1310,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -898,7 +906,7 @@
             "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 985,
+            "stars": 986,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -939,7 +947,7 @@
             "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "elon-musk-skill",
-            "stars": 583,
+            "stars": 584,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -980,7 +988,7 @@
             "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "munger-skill",
-            "stars": 405,
+            "stars": 408,
             "topics": [
               "agent-skills",
               "charlie-munger",
@@ -1021,7 +1029,7 @@
             "open_issues": 0,
             "owner": "SamadhiFire",
             "repo": "xinqingnian-maoxuan-skill",
-            "stars": 376,
+            "stars": 377,
             "topics": [
               "aiskills",
               "maoxuan",
@@ -1126,10 +1134,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-13T06:56:05Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "trump-skill",
-            "stars": 278,
+            "stars": 279,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -1167,7 +1175,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-13T06:54:17Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "naval-skill",
             "stars": 276,
@@ -1274,7 +1282,7 @@
             "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "zhang-yiming-skill",
-            "stars": 182,
+            "stars": 183,
             "topics": [
               "agent-skills",
               "bytedance",
@@ -1426,7 +1434,7 @@
             "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "paul-graham-skill",
-            "stars": 107,
+            "stars": 108,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -1801,7 +1809,7 @@
             "open_issues": 12,
             "owner": "jinchenma94",
             "repo": "bazi-skill",
-            "stars": 4226,
+            "stars": 4237,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -1819,10 +1827,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-10-16T12:01:29Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "FANzR-arch",
             "repo": "Numerologist_skills",
-            "stars": 2172,
+            "stars": 2187,
             "topics": [
               "agent-skills",
               "chinese-astrology",
@@ -1851,7 +1859,7 @@
             "open_issues": 4,
             "owner": "Ming-H",
             "repo": "yinyuan-skills",
-            "stars": 643,
+            "stars": 644,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -1867,12 +1875,12 @@
             "homepage": null,
             "id": 1208155058,
             "language": "Python",
-            "license": null,
-            "last_commit": "2026-11-19T23:12:14Z",
-            "open_issues": 3,
+            "license": "MIT",
+            "last_commit": "2026-11-23T17:44:16Z",
+            "open_issues": 2,
             "owner": "voidforall",
             "repo": "fengshui.skill",
-            "stars": 598,
+            "stars": 603,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -1889,11 +1897,11 @@
             "id": 1201167354,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-22T13:53:52Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-23T00:10:32Z",
+            "open_issues": 4,
             "owner": "xr843",
             "repo": "Master-skill",
-            "stars": 592,
+            "stars": 595,
             "topics": [
               "agent-skills",
               "ai-persona",
@@ -1940,7 +1948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T17:05:46.207Z",
+    "last_updated": "2026-11-23T21:15:50.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
@@ -1948,11 +1956,11 @@
       "id": 1203185600,
       "language": "JavaScript",
       "license": "CC0-1.0",
-      "last_commit": "2026-11-20T05:58:02Z",
+      "last_commit": "2026-11-23T12:31:50Z",
       "open_issues": 4,
-      "owner": "xixu-me",
-      "repo": "awesome-persona-distill-skills",
-      "stars": 4758,
+      "owner": "xinif-a",
+      "repo": "apds",
+      "stars": 4759,
       "topics": [
         "agent-skills",
         "awesome",
@@ -1960,9 +1968,9 @@
         "persona-distill"
       ]
     },
-    "original_repository_sha": "9acbf805bee6492854bbfce60d6ea1ab23f225b2",
+    "original_repository_sha": "bf7f851123ebd25291c23e6e448a7af2a1931c2e",
     "enhanced_repository": "enhansome/enhansome-persona-distill-skills",
     "enhanced_repository_description": null,
-    "title": "Awesome persona distill skills with stars"
+    "title": "Awesome apds with stars"
   }
 }
