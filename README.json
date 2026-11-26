@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-21T09:57:56Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 39027,
+            "stars": 39092,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -61,7 +61,7 @@
             "open_issues": 22,
             "owner": "notdog1998",
             "repo": "yourself-skill",
-            "stars": 3554,
+            "stars": 3553,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -82,7 +82,7 @@
             "open_issues": 8,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1158,
+            "stars": 1161,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -117,7 +117,7 @@
             "open_issues": 0,
             "owner": "swaylq",
             "repo": "master-skill",
-            "stars": 188,
+            "stars": 211,
             "topics": [
               "agent",
               "agent-skills",
@@ -152,7 +152,7 @@
             "open_issues": 2,
             "owner": "YIKUAIBANZI",
             "repo": "forge-skill",
-            "stars": 137,
+            "stars": 138,
             "topics": [
               "ai-agent",
               "claude-code",
@@ -181,7 +181,7 @@
             "open_issues": 0,
             "owner": "wildbyteai",
             "repo": "digital-life",
-            "stars": 68,
+            "stars": 69,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -316,7 +316,7 @@
             "open_issues": 0,
             "owner": "henryjohnbrand",
             "repo": "midas-skill",
-            "stars": 12,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -337,7 +337,7 @@
             "open_issues": 1,
             "owner": "Aar0nPB",
             "repo": "curator-skill",
-            "stars": 5,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -410,7 +410,7 @@
             "open_issues": 75,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 26863,
+            "stars": 26885,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -578,7 +578,7 @@
             "open_issues": 21,
             "owner": "therealXiaomanChu",
             "repo": "ex-skill",
-            "stars": 6640,
+            "stars": 6641,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -744,7 +744,7 @@
             "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10826,
+            "stars": 10833,
             "topics": [
               "agent-skills",
               "career-planning",
@@ -786,7 +786,7 @@
             "open_issues": 22,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3904,
+            "stars": 3935,
             "topics": [
               "ai-agents",
               "methodology",
@@ -843,7 +843,7 @@
             "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "x-mentor-skill",
-            "stars": 1351,
+            "stars": 1353,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -885,7 +885,7 @@
             "open_issues": 3,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1313,
+            "stars": 1314,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -1096,7 +1096,7 @@
             "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "feynman-skill",
-            "stars": 323,
+            "stars": 324,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -1809,7 +1809,7 @@
             "open_issues": 12,
             "owner": "jinchenma94",
             "repo": "bazi-skill",
-            "stars": 4263,
+            "stars": 4276,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -1830,7 +1830,7 @@
             "open_issues": 7,
             "owner": "FANzR-arch",
             "repo": "Numerologist_skills",
-            "stars": 2217,
+            "stars": 2226,
             "topics": [
               "agent-skills",
               "chinese-astrology",
@@ -1859,7 +1859,7 @@
             "open_issues": 4,
             "owner": "Ming-H",
             "repo": "yinyuan-skills",
-            "stars": 652,
+            "stars": 654,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -1880,7 +1880,7 @@
             "open_issues": 1,
             "owner": "voidforall",
             "repo": "fengshui.skill",
-            "stars": 616,
+            "stars": 620,
             "topics": []
           },
           "first_seen": "2026-10-03T14:18:07.870Z"
@@ -1892,16 +1892,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "FoJin-powered Buddhist AI persona framework — source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
+            "description": "Source-grounded Buddhist AI skills: master personas, plus reusable capability skills (quote tracing, citation resolution) and an MCP server — fidelity-tested against CBETA, SuttaCentral and BDRC.",
             "homepage": "https://fojin.ai",
             "id": 1201167354,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T14:09:14Z",
+            "last_commit": "2026-11-26T00:28:48Z",
             "open_issues": 7,
             "owner": "xr843",
             "repo": "Master-skill",
-            "stars": 602,
+            "stars": 603,
             "topics": [
               "agent-skills",
               "ai-persona",
@@ -1913,6 +1913,8 @@
               "fojin",
               "llm",
               "mahamudra",
+              "mcp-server",
+              "model-context-protocol",
               "rag",
               "suttacentral",
               "thai-forest-tradition",
@@ -1948,7 +1950,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T19:11:34.297Z",
+    "last_updated": "2026-11-26T18:57:58.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
@@ -1960,7 +1962,7 @@
       "open_issues": 4,
       "owner": "xixu-me",
       "repo": "apds",
-      "stars": 4759,
+      "stars": 4762,
       "topics": [
         "agent-skills",
         "awesome",
